@@ -5,6 +5,9 @@
     },
     "main>section[0]>div>div[0]>h1": {
       "color": "#ef4444"
+    },
+    "main>section[0]>div>div[1]>div>div[0]": {
+      "display": "none"
     }
   },
   "responsive": {},
