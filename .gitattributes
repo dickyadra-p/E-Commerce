@@ -1,0 +1,67 @@
+# ─── Auto-detect text files and normalize line endings ─────────────
+* text=auto
+
+# ─── Source Code ───────────────────────────────────────────────────
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.mjs text eol=lf
+*.cjs text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.vue text eol=lf
+*.svelte text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.xml text eol=lf
+*.svg text eol=lf
+*.php text eol=lf
+*.dart text eol=lf
+*.kt text eol=lf
+*.swift text eol=lf
+
+# ─── Config Files ─────────────────────────────────────────────────
+*.env text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.htaccess text eol=lf
+.editorconfig text eol=lf
+Dockerfile text eol=lf
+Makefile text eol=lf
+
+# ─── Shell Scripts ─────────────────────────────────────────────────
+*.sh text eol=lf
+*.bash text eol=lf
+
+# ─── Windows Scripts ───────────────────────────────────────────────
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# ─── Binary Files (no diff, no merge) ─────────────────────────────
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.otf binary
+*.zip binary
+*.tar.gz binary
+*.pdf binary
+*.mp4 binary
+*.mp3 binary
+
+# ─── Lock Files (generated, do not diff) ──────────────────────────
+pnpm-lock.yaml -diff
+package-lock.json -diff
+yarn.lock -diff
+composer.lock -diff

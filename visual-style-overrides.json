@@ -1,0 +1,12 @@
+{
+  "styles": {
+    "main>section[0]>div>div[1]>div>div[4]>span[1]": {
+      "color": "#1f2937"
+    },
+    "main>section[0]>div>div[0]>h1": {
+      "color": "#ef4444"
+    }
+  },
+  "responsive": {},
+  "legacyCss": ""
+}

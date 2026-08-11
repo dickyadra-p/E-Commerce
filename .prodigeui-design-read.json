@@ -1,0 +1,26 @@
+{
+  "pageKind": "product landing with operational evidence",
+  "audience": "independent merchants and small commerce operators who need to move from listing to fulfillment without operational blind spots",
+  "productMechanism": "real-time order propagation that turns a placed order into an accountable fulfillment record, with inventory risk surfaced before it blocks revenue",
+  "feeling": "grounded confidence through visible operational truth",
+  "sensoryMetaphor": "the ledger entry - ink drying on a page, a definitive mark that changes a record permanently",
+  "dials": "variance 0.45 / motion 0.20 / density 0.55",
+  "paletteFamily": "warm paper and dark ink / warm-neutral / ledger-derived / cream-charcoal-red",
+  "typeJobs": "display: Georgia serif editorial authority / reading: system UI sans calm voice / annotation: monospace for operational evidence",
+  "artDirectionLane": "data-precise with editorial authority",
+  "focalSubject": "single framed order record ORD-2847-KM showing ownership, risk, and a pending fulfillment decision",
+  "layoutFamilies": "artifact: single framed record with asymmetric metadata / capability-ledger: three-axis open ruled field / proof: asymmetric split editorial-quote plus compact metrics no wrapper / pricing: edge-to-edge feature-by-tier with shared rules / objections: split rail native details / close: full-width deep anchor reusing established signal",
+  "rhythm": "open artifact to calm ledger to dense evidence to structured choice to quiet deep close",
+  "signatureMove": "the first-viewport operational record that functions as both proof and call-to-action - a real order that needs a decision",
+  "writingVoice": "direct, credible, operational - names the consequence not the feature",
+  "avoidedDefaults": [
+    "dashboard shell",
+    "KPI mosaic",
+    "generic card grid",
+    "dark dev-tool palette",
+    "equal-card repetition",
+    "centered template rhythm",
+    "control-room metaphor",
+    "kanban chrome"
+  ]
+}

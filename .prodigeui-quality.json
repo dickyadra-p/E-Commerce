@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "prodigeui": {
+    "version": "3.0.0",
+    "upstreamCommit": "e6c1acdd41a3b89c7e73612a75ef48c41faececc",
+    "contractHash": "sha256:011a7ea095ac593bd3ded0f59ab3581db394040d4da5c9faba311b83854936d9"
+  },
+  "stack": "standalone-html",
+  "profile": "operationalProduct",
+  "criteria": [
+    {
+      "id": "type-role-integrity",
+      "status": "pass",
+      "evidence": [
+        "display, reading, and annotation roles are delivered and functionally distinct"
+      ]
+    },
+    {
+      "id": "font-render-truth",
+      "status": "pass",
+      "evidence": [
+        "structured design contract, UTF-8, and delivered font evidence present"
+      ]
+    },
+    {
+      "id": "closing-cta-color-continuity",
+      "status": "pass",
+      "evidence": [
+        "structured design contract and UTF-8 evidence present"
+      ]
+    },
+    {
+      "id": "quality-profile-transfer",
+      "status": "fail",
+      "evidence": [
+        "quality score 94",
+        "Standalone composition is implementation-heavy; identity should come from one focal engine and a small repeated vocabulary, not component or decorative sprawl.",
+        "Operational hero headline does not name the work mechanism, consequence, or decision and reads as a category slogan.",
+        "Operational profile lacks a credible evidence/risk/owner/time/decision record; include concrete ownership or time in the rendered product artifact."
+      ]
+    },
+    {
+      "id": "visual-hierarchy",
+      "status": "fail",
+      "evidence": [
+        "1 semantic section(s) have neither a heading nor an accessible name; add a visible heading, aria-label/aria-labelledby, or use a non-semantic container."
+      ]
+    },
+    {
+      "id": "anti-slop-patterns",
+      "status": "fail",
+      "evidence": [
+        "Standalone composition is implementation-heavy; identity should come from one focal engine and a small repeated vocabulary, not component or decorative sprawl."
+      ]
+    }
+  ],
+  "summary": {
+    "pass": false,
+    "passed": 3,
+    "failed": 3
+  }
+}
