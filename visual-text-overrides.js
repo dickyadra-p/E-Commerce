@@ -1,6 +1,6 @@
 /* __divai-text-overrides */
 (() => {
-  const overrides = [{"nodeId":"main>section[0]>div>div[0]>h1","oldValue":"Your Next Order Should Already Be Moving","newValue":"Your Next Order Should Already Be Movingbro"}];
+  const overrides = [{"nodeId":"main>section[0]>div>div[0]>h1","oldValue":"Your Next Order Should Already Be Moving","newValue":"Your Next Order Should Already Be Moving sol"}];
   const deadline = Date.now() + 12000;
   let observer = null;
   let scheduled = false;
